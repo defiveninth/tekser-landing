@@ -763,6 +763,7 @@ export default function HomePage() {
         <div className="footer">
           <a href="/" className="footer-logo">TEKSER<span>.</span></a>
           <div className="footer-links">
+            <Link href="/privacy-policy" className="footer-link">Privacy Policy</Link>
             <Link href="/delete-account" className="footer-link">Delete Account</Link>
             <a href="mailto:abdurrauf.sakenov@proton.me" className="footer-link">Contact</a>
           </div>
