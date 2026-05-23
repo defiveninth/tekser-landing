@@ -68,7 +68,7 @@ export function AdminSidebar() {
 
       {/* Footer */}
       <div className="px-5 py-4 border-t border-[#21262d]">
-        <div className="text-[10px] text-[#656d76]">v0.1.0 · Mock Data</div>
+        <div className="text-[10px] text-[#656d76]">v0.1.0 · Live</div>
       </div>
     </aside>
   );
